@@ -1,8 +1,6 @@
 # Temel Bilişim
 
-Bu metin, "Temel Bilişim" başlıklı anlatımın özgün metnidir. Bilişim kavramının tanımı, kapsamı ve tarihsel gelişimi sade ve akademik bir dille anlatılmıştır.
 
----
 
 ## 1. Bilişim Nedir?
 
@@ -80,4 +78,3 @@ Bilişimi anlayan kişi, sadece kullanıcı değil; aynı zamanda bilinçli bir 
 Bu içerik, eğitim ve anlatım amacıyla hazırlanmıştır.  
 YouTube’da video anlatımı yapılabilir; aynı zamanda bu metin GitHub üzerinden yazılı kaynak olarak paylaşılabilir.
 
-Telif sahibine aittir. Kaynak gösterilerek eğitim amaçlı kullanıma açıktır.
