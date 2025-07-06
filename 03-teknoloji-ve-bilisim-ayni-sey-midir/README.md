@@ -1,8 +1,6 @@
 # Teknoloji ve Bilişim Aynı Şey midir?
 
-Bu metin, teknoloji ve bilişim kavramlarının farklarını, ilişkilerini ve karıştırılma nedenlerini ele alan özgün bir içeriktir. Hem akademik bir açıklık hedeflenmiş hem de sade bir anlatım dili kullanılmıştır.
-
----
+-
 
 ## 1. Giriş: İki Kavram, Tek Alan mı?
 
@@ -93,4 +91,3 @@ Bu farkı bilmek, teknoloji çağında sadece kullanıcı olmakla kalmayıp, sis
 
 Bu içerik, eğitim ve anlatım amacıyla hazırlanmıştır.  
 YouTube’da video anlatımı yapılabilir; aynı zamanda bu metin GitHub üzerinden yazılı kaynak olarak paylaşılabilir.
-
