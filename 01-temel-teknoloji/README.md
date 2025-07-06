@@ -1,6 +1,6 @@
 # Temel Teknoloji
 
-Bu metin, "Temel Teknoloji" başlıklı anlatımın özgün metnidir. Kavramsal düzeyde teknolojiyi tanımlar, tarihsel arka planını verir ve günlük yaşamdaki işlevlerini sorgular. Akademik ama sade bir dil hedeflenmiştir.
+-
 
 ---
 
@@ -71,5 +71,3 @@ Bu nedenle teknoloji, sadece “nasıl kullanılır?” sorusuyla değil; aynı 
 
 Bu içerik, eğitim ve anlatım amacıyla hazırlanmıştır.  
 YouTube’da video anlatımı yapılabilir; aynı zamanda bu metin GitHub üzerinden yazılı kaynak olarak paylaşılabilir.
-
-Telif sahibine aittir. Kaynak gösterilerek eğitim amaçlı kullanıma açıktır.
