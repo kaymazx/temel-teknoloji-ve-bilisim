@@ -1,6 +1,6 @@
 # Temel Bilişim
 
-
+-
 
 ## 1. Bilişim Nedir?
 
@@ -77,4 +77,3 @@ Bilişimi anlayan kişi, sadece kullanıcı değil; aynı zamanda bilinçli bir 
 
 Bu içerik, eğitim ve anlatım amacıyla hazırlanmıştır.  
 YouTube’da video anlatımı yapılabilir; aynı zamanda bu metin GitHub üzerinden yazılı kaynak olarak paylaşılabilir.
-
