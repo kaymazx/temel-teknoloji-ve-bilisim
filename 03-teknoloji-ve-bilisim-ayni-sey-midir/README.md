@@ -94,4 +94,3 @@ Bu farkı bilmek, teknoloji çağında sadece kullanıcı olmakla kalmayıp, sis
 Bu içerik, eğitim ve anlatım amacıyla hazırlanmıştır.  
 YouTube’da video anlatımı yapılabilir; aynı zamanda bu metin GitHub üzerinden yazılı kaynak olarak paylaşılabilir.
 
-Telif sahibine aittir. Kaynak gösterilerek eğitim amaçlı kullanıma açıktır.
