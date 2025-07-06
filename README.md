@@ -12,5 +12,5 @@ Bu projede teknoloji ve bilişim alanındaki temel kavramlar, akademik ama sade 
 
 ## Kullanım
 
-Bu içerikler özgün olarak hazırlanmıştır. Telif size aittir. Eğitim, sunum veya dijital medya üretiminde kaynak göstermek koşuluyla serbestçe kullanılabilir.
+Bu içerikler özgün olarak hazırlanmıştır. Telif size aittir. Eğitim, sunum veya dijital medya üretiminde kaynak gösterme koşulu olmadan serbestçe kullanılabilir.
 
